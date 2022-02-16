@@ -45,10 +45,10 @@ variable "tags" {
   type = map(string)
 }
 
-variable "linux_username" {
-  type = string
-}
+#variable "linux_username" {
+#  type = string
+#}
 
-variable "linux_password" {
-  type = string
-}
+#variable "linux_password" {
+#  type = string
+#}
