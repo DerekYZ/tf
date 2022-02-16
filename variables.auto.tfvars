@@ -1,8 +1,8 @@
 #service principle credentials
-subscription_id = "f6a7723b-56ed-4572-a4b2-0f147ad4fd1b"
-client_id       = "c77a6c19-f4e0-4a4c-9ab3-9ac50f602886"
-client_secret   = "Cip7Q~Xa1mPKG7PKRwhSiZNmIyTU.aJeO2j31"
-tenant_id       = "33da9f3f-4c1a-4640-8ce1-3f63024aea1d"
+subscription_id = ""
+client_id       = ""
+client_secret   = ""
+tenant_id       = ""
 
 #resource group variables
 RG_name  = "DerekZ_tf_rg"
